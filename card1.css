@@ -1,0 +1,29 @@
+.nav-bar{
+    background-color: aqua;
+}
+img{
+    background-color: aqua;
+}
+.card-container{
+    border: 2px solid #ccc; 
+    border-radius: 20px; 
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+    margin: 2px;
+    background-color:lightgrey; 
+    height: 300px; 
+    gap: 2px;
+}
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+h4{
+    font-size: medium;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
